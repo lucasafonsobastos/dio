@@ -6,9 +6,9 @@ Neste projeto e desafio, utilizando styled-components para facilitar o desenvolv
 
 ## Avaliar Scripts
 No diretório do projeto, você pode executar:
-  ## npm start
+- npm start
 para iniciar o projeto
 
- ## npm run api
+- npm run api
 para iniciar o servidor da mini api teste
 
